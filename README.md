@@ -1,9 +1,11 @@
 # Transaction-Based-Networking-Application
+
 Author: Omer Basar
 
 Description: An eBay/Craigslist inspired application where clients can connect to a server and either upload or purchase items for sale.
 
 -----------------------------------------------------------------------------
+# Program Details
 
 Welcome to the transaction website program.
 
@@ -24,3 +26,10 @@ If the client is a seller, they will be asked to provide the name, description a
 Upon completion of a transaction, the client will be shown an updated catalog and will be asked if they would like to make another transaction, repeating the previous steps.
 
 Answering no will once again end the application.
+
+-----------------------------------------------------------------------------
+# Version Types
+The prototype version supports a single client and server.
+
+The advanced version supoorts multiple clients, contains additional fail-safe programming measures, utilizes synchronization to preserve
+data integrity, as well as supports reading and writing to a file save states between server sessions.
