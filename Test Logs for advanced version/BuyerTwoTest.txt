@@ -1,0 +1,57 @@
+
+-------------Catalog--------------
+ID: 123abc
+Item: testItem1
+Description: none
+Seller: Bob
+Price: 999₵
+----------------------
+ID: 789ghi
+Item: testItem3
+Description: none
+Seller: Cob
+Price: 449₵
+----------------------
+
+Welcome to the transaction website
+Would you like to make a transaction? Enter yes or no.
+yes
+Enter the item id that you want to purchase.
+123abc
+
+-------------Catalog--------------
+ID: 789ghi
+Item: testItem3
+Description: none
+Seller: Cob
+Price: 449₵
+----------------------
+
+Your purchase was successful.
+Would you like to make a transaction? Enter yes or no.
+yes
+Enter the item id that you want to purchase.
+789ghi
+
+-------------Catalog--------------
+There are no items available to purchase at the current time.
+
+
+Your purchase was successful.
+Would you like to make a transaction? Enter yes or no.
+yes
+Enter the item id that you want to purchase.
+test
+
+-------------Catalog--------------
+ID: c18312fd-2769-45cf-b537-842b3024e604
+Item: Cheese
+Description: It has holes.
+Seller: Peter
+Price: 599₵
+----------------------
+
+Your desired item was either already bought by another user or doesn't exist in the catalog.
+Would you like to make a transaction? Enter yes or no.
+no
+Disconnecting from transaction website.

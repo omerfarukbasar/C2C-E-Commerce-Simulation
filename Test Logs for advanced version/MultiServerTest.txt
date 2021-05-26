@@ -1,0 +1,119 @@
+/Users/omerbasar/Library/Java/JavaVirtualMachines/openjdk-16/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=60416:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/omerbasar/Documents/College/Computer Networks/Assignments/Final Project/out/production/Final Project EBMultiServer 8888
+Reading: id, name, description, seller, price
+ID: 123abc
+Item: testItem1
+Description: none
+Seller: Bob
+Price: 999₵
+----------------------
+Reading: id, name, description, seller, price
+ID: 456def
+Item: testItem2
+Description: none
+Seller: Rob
+Price: 299₵
+----------------------
+Reading: id, name, description, seller, price
+ID: 789ghi
+Item: testItem3
+Description: none
+Seller: Cob
+Price: 449₵
+----------------------
+Connection established with the client
+Client Transaction Request: 
+ID: 456def
+Item: null
+Description: none
+Seller: null
+Price: -999₵
+----------------------
+Connection established with the client
+Client Transaction Request: 
+ID: 123abc
+Item: null
+Description: none
+Seller: null
+Price: -999₵
+----------------------
+Client Transaction Request: 
+ID: 123abc
+Item: null
+Description: none
+Seller: null
+Price: -999₵
+----------------------
+Client Transaction Request: 
+ID: 789ghi
+Item: null
+Description: none
+Seller: null
+Price: -999₵
+----------------------
+Client Transaction Request: 
+ID: test
+Item: null
+Description: none
+Seller: null
+Price: -999₵
+----------------------
+Connection established with the client
+Client Transaction Request: 
+ID: c18312fd-2769-45cf-b537-842b3024e604
+Item: Cheese
+Description: It has holes.
+Seller: Peter
+Price: 599₵
+----------------------
+Client Transaction Request: 
+ID: test
+Item: null
+Description: none
+Seller: null
+Price: -999₵
+----------------------
+Client Transaction Request: 
+ID: test
+Item: null
+Description: none
+Seller: null
+Price: -999₵
+----------------------
+Client Transaction Request: 
+ID: null
+Item: null
+Description: Disconnecting from transaction website.
+Seller: null
+Price: -999₵
+----------------------
+ID: null
+Item: null
+Description: Disconnecting from transaction website.
+Seller: null
+Price: -999₵
+----------------------Client Transaction Request: 
+ID: null
+Item: null
+Description: Disconnecting from transaction website.
+Seller: null
+Price: -999₵
+----------------------
+ID: null
+Item: null
+Description: Disconnecting from transaction website.
+Seller: null
+Price: -999₵
+----------------------Client Transaction Request: 
+ID: null
+Item: null
+Description: Disconnecting from transaction website.
+Seller: null
+Price: -999₵
+----------------------
+ID: null
+Item: null
+Description: Disconnecting from transaction website.
+Seller: null
+Price: -999₵
+----------------------
+Process finished with exit code 130 (interrupted by signal 2: SIGINT)

@@ -1,0 +1,33 @@
+
+-------------Catalog--------------
+There are no items available to purchase at the current time.
+
+
+Welcome to the transaction website
+Would you like to make a transaction? Enter yes or no.
+yes
+Enter the name of your item.
+Cheese
+Enter the item's description.
+It has holes.
+Enter the item's price in cents format. Ex: 999 means $9.99
+-99
+Incorrect input for price detected. Price must utilize integers and be 0 or greater.
+Enter the item's price in cents format. Ex: 999 means $9.99
+f
+Incorrect input for price detected. Price must utilize integers and be 0 or greater.
+Enter the item's price in cents format. Ex: 999 means $9.99
+599
+
+-------------Catalog--------------
+ID: c18312fd-2769-45cf-b537-842b3024e604
+Item: Cheese
+Description: It has holes.
+Seller: Peter
+Price: 599₵
+----------------------
+
+Your item was uploaded to the catalog.
+Would you like to make a transaction? Enter yes or no.
+no
+Disconnecting from transaction website.
