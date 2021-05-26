@@ -33,3 +33,12 @@ The prototype version supports a single client and server.
 
 The advanced version supoorts multiple clients, contains additional fail-safe programming measures, utilizes synchronization to preserve
 data integrity, as well as supports reading and writing to a file save states between server sessions.
+
+-----------------------------------------------------------------------------
+# Assumptions/Limitations
+Financial based transactions such as transfer of currency exchanges will be assumed to be handled by a third-party service. Ex: PayPal.
+
+Upon connection to the server, users are expected to provide identification such as name. Email login will be added in a future rendition.
+
+In addition, clients indicate that they are a buyer or seller from the command line arguments.
+
