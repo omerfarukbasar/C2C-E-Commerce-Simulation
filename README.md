@@ -3,6 +3,8 @@ Author: Omer Basar
 
 Description: An eBay/Craigslist inspired application where clients can connect to a server and either upload or purchase items for sale.
 
+-----------------------------------------------------------------------------
+
 Welcome to the transaction website program.
 
 To set up the server, provide an open port number and run the program.
