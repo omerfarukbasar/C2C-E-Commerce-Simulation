@@ -1,8 +1,8 @@
-# Transaction-Based-Networking-Application
+# C2C E-Commerce Simulation
 
 Author: Omer Basar
 
-Description: An eBay/Craigslist inspired application where clients can connect to a server and either upload or purchase items for sale.
+Description: A consumer to consumer ecommerce platform simulation similar to how eBay/Craigslist function. Clients can connect to a server and either upload or purchase items for sale. The overall purpose was to simulate transactions between clients over a network. This was my final project for Computer Networks. The users interface with the program using the terminal.
 
 -----------------------------------------------------------------------------
 # Program Details
