@@ -31,7 +31,7 @@ Answering no will once again end the application.
 # Version Types
 The prototype version supports a single client and server.
 
-The advanced version supoorts multiple clients, contains additional fail-safe programming measures, utilizes synchronization to preserve
+The advanced version supports multiple clients, contains additional fail-safe programming measures, utilizes synchronization to preserve
 data integrity, as well as supports reading and writing to a file save states between server sessions.
 
 -----------------------------------------------------------------------------
